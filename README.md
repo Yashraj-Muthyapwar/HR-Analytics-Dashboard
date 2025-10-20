@@ -1,9 +1,10 @@
 # HR Analytics Dashboard
 
 A concise Tableau dashboard to monitor workforce **headcount, hiring trends, and attrition**.  
-**Live demo:** [Open on Tableau Public]([https://public.tableau.com/app/profile/yash.raj.muthyapwar/viz/HR_Analytics_Workbook/HRDashboard])
+**Live demo:** [Open on Tableau Public](<https://public.tableau.com/app/profile/yash.raj.muthyapwar/viz/HR_Analytics_Workbook/HRDashboard>)
 
-[![Open the interactive dashboard](assets/cover.png)]([[TABLEAU_PUBLIC_LINK](https://public.tableau.com/app/profile/yash.raj.muthyapwar/viz/HR_Analytics_Workbook/HRDashboard)])
+[![Open the interactive dashboard](assets/cover.png)](<https://public.tableau.com/app/profile/yash.raj.muthyapwar/viz/HR_Analytics_Workbook/HRDashboard>
+)
 
 
 ## Overview
@@ -53,4 +54,4 @@ This dashboard gives HR/People teams a fast pulse on:
 - Code and assets in this repository are released under the **MIT License** (adjust if you prefer a different license).
 
 
-
+Contributions welcome — built with ❤️ to make HR insights effortless.
