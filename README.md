@@ -53,4 +53,4 @@ This dashboard gives HR/People teams a fast pulse on:
 - Code and assets in this repository are released under the **MIT License** (adjust if you prefer a different license).
 
 
-Contributions welcome — built with ❤️ to make HR insights effortless.
+Contributions welcome built with ❤️ to make HR insights effortless.
