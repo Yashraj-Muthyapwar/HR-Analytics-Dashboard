@@ -50,7 +50,8 @@ This dashboard gives HR/People teams a fast pulse on:
 
 - Built in **Tableau Public** for portfolio/learning purposes.  
 - Data used is a sample HR dataset for demonstration only.  
-- Code and assets in this repository are released under the **MIT License** (adjust if you prefer a different license).
+- Code and assets in this repository are released under the **MIT License** See the [LICENSE](LICENSE) file for more details.
+
 
 
 Contributions welcome built with ❤️ to make HR insights effortless.
