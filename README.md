@@ -16,17 +16,6 @@ This dashboard gives HR/People teams a fast pulse on:
 
 > Screenshot above is a static preview. Click the image (or “Live demo”) to explore the interactive version.
 
-## Data & Key Calculations
-
-- **Dataset:** HR analytics practice dataset used for learning/demo.
-- **Core fields:** Employee ID, Hire Date, Attrition (Yes/No), Business Travel, Years at Company, Age Group, Marital Status.
-- **Derived metrics:**
-  - `Attrition Flag = IIF([Attrition] = "Yes", 1, 0)`
-  - **Attrition Rate =** `SUM([Attrition Flag]) / COUNT([Employee ID])`  
-    *(formatted as Percentage; calculated per view context)*
-  - **Current/Past Employees:** counts grouped by attrition status.
-  - **Pie % (Demographics):** marks labeled via **Percent of Total** table calc.
-
 
 ## What’s on the Dashboard
 
@@ -37,21 +26,13 @@ This dashboard gives HR/People teams a fast pulse on:
 - **Attrition by Tenure** – clustered bars for **Current vs Past** by years at company.
 - **Demographics** – age band bar chart and marital-status pie.
 
-*(Numbers shown here match the example screenshot; your view will update with the data.)*
-
-
 ## How to Use
 
 1. **Interactive filters** (if enabled on your Public view) let you slice by department, role, or demographics.
 2. **Hover** to see tooltips and counts/percentages.
 3. Use the **legends** to focus a specific segment.
 
-## Attribution & License
-
-- Built in **Tableau Public** for portfolio/learning purposes.  
-- Data used is a sample HR dataset for demonstration only.  
+## License
 - Code and assets in this repository are released under the **MIT License** See the [LICENSE](LICENSE) file for more details.
-
-
 
 Contributions welcome built with ❤️ to make HR insights effortless.
