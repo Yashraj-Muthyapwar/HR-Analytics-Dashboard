@@ -33,6 +33,6 @@ This dashboard gives HR/People teams a fast pulse on:
 3. Use the **legends** to focus a specific segment.
 
 ## License
-- Code and assets in this repository are released under the **MIT License** See the [LICENSE](LICENSE) file for more details.
+Code and assets in this repository are released under the **MIT License** See the [LICENSE](LICENSE) file for more details.
 
 Contributions welcome built with ❤️ to make HR insights effortless.
